@@ -26,6 +26,7 @@ In the output, you'll find options to open the app in a
 <br/>
 
 # Screenshots
-
+<p float="left">
 <img src="assets/images/Home-screen.jpg" alt="Home Screen" width="200"/>
 <img src="assets/images/History-screen.jpg" alt="History Screen" width="200"/>
+</p>
